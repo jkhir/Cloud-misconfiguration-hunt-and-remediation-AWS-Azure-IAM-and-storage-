@@ -22,7 +22,7 @@ The goals of this project are to:
 ---
 
 ## Team Roles
-Juwairia khir: (AWS IAM Security) Identify and remediate excessive AWS IAM permissions.
-Livia Shrestha: (AWS S3 Security) Find and remediate S3 storage misconfigurations.
-Sulav Ghimire:  (Azure IAM/RBAC Security) Find and remediate excessive Azure permissions.
-Bijaya Sapkota: (Azure Storage Security) Find and remediate Azure storage misconfigurations.
+- Juwairia khir: (AWS IAM Security) Identify and remediate excessive AWS IAM permissions.
+- Livia Shrestha: (AWS S3 Security) Find and remediate S3 storage misconfigurations.
+- Sulav Ghimire:  (Azure IAM/RBAC Security) Find and remediate excessive Azure permissions.
+- Bijaya Sapkota: (Azure Storage Security) Find and remediate Azure storage misconfigurations.
